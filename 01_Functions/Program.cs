@@ -5,8 +5,15 @@
     static void Main(string[] args)
     {
         Program program = new Program();
-        // Hier wordt de nieuwe variable "program" gemaakt.
         program.Run();
+        // Function: Run
+        // Deze function laat de program werken
+        // Het type van de function is program
     }
+
+    internal void Run()
+        {
+            Console.WriteLine("Dit is nu de start van mijn programma");
+        }
 }
 }

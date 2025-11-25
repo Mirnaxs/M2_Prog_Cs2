@@ -1,0 +1,15 @@
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\bin\Debug\net9.0\01_Functions.exe
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\bin\Debug\net9.0\01_Functions.deps.json
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\bin\Debug\net9.0\01_Functions.runtimeconfig.json
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\bin\Debug\net9.0\01_Functions.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\bin\Debug\net9.0\01_Functions.pdb
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.AssemblyInfoInputs.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.AssemblyInfo.cs
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.csproj.CoreCompileInputs.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.sourcelink.json
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\refint\01_Functions.dll
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.pdb
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\01_Functions.genruntimeconfig.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\01_Functions\obj\Debug\net9.0\ref\01_Functions.dll

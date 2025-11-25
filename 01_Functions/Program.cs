@@ -63,9 +63,9 @@
 
             Console.WriteLine(antwoord);
         }
-        internal string Vraag6()
+        internal string Vraag7()
         {
-            Console.WriteLine("How long do you think you'd survive in a zombie apocalypse?");
+            Console.WriteLine("Wat is jouw naam?");
             string antwoord = Console.ReadLine();
 
             return antwoord;

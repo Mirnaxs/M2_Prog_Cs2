@@ -1,0 +1,5 @@
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\04_Lists\obj\Debug\net9.0\04_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\04_Lists\obj\Debug\net9.0\04_Lists.AssemblyInfoInputs.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\04_Lists\obj\Debug\net9.0\04_Lists.AssemblyInfo.cs
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\04_Lists\obj\Debug\net9.0\04_Lists.csproj.CoreCompileInputs.cache
+C:\Users\marni\School\Visual Studio\M2\M2_Prog_Cs2\04_Lists\obj\Debug\net9.0\04_Lists.sourcelink.json
